@@ -2,7 +2,7 @@
 
 > **Reference implementation of the SDRIS framework: Deriving Galactic Rotation Curves via Vacuum Viscosity ($a_0$) instead of Dark Matter.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: AGPLv3]
 [![Status: Experimental](https://img.shields.io/badge/Status-Experimental-orange.svg)](https://github.com/USERNAME/SDRIS)
 
 ## 🌌 Abstract
